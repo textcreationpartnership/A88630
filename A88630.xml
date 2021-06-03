@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Loyall resolution of the gentry and commonalty of the county of Yorke, presented to His Royall Majestie, concerning severall matters of great consequence between His Majestie and Sir Iohn Hotham, a member of the honourable House of Parliament, and by the appointment of the said House, governour of Hull. Wherein is declared the greatest manifestation both of their loyalty to their gracious soveraign, their due obedience to the Houses of Parliament, their judicious care to secure the peace and quiet of the kingdome, and increase a neerer union between his Majesty and the great councell of the kingdome. Likewise Sir Iohn Hothams determination concerning the charge which is committed to him by the Houses of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88630</idno><idno type="EEBO-CITATION">99872156</idno>
+  <idno type="VID">156675</idno>
+  <idno type="EEBO-PROQUEST">2240949002</idno>
+  
+            <idno type="STC">Wing L3363</idno>
+            <idno type="STC">Thomason E147_10</idno>
+            <idno type="STC">ESTC R2730</idno>
+            <idno type="PROQUEST">99872156</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872156e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156675)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Loyall resolution of the gentry and commonalty of the county of Yorke, presented to His Royall Majestie, concerning severall matters of great consequence between His Majestie and Sir Iohn Hotham, a member of the honourable House of Parliament, and by the appointment of the said House, governour of Hull. Wherein is declared the greatest manifestation both of their loyalty to their gracious soveraign, their due obedience to the Houses of Parliament, their judicious care to secure the peace and quiet of the kingdome, and increase a neerer union between his Majesty and the great councell of the kingdome. Likewise Sir Iohn Hothams determination concerning the charge which is committed to him by the Houses of Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>May 16. London, Printed for Iohn Richman,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="personal_name">Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156675:1"/>
+            <p>May, the 10. 1642. The Loyall Resolution Of the Gentry and Commonalty of the County of YORKE PRESENTED so His Royall Majestie, concerning severall Matters of great Consequence between His Majestie and Sir <hi>Iohn Hotham,</hi> a Member of the Honourable House of Parliament, and by the ap<g ref="char:EOLhyphen"/>pointment of the said House, Governour of <hi>Hull.</hi> Wherein is declared the greatest Manifestation both of their Loyalty to their gracious Soveraign, their due obedience to the Houses of Parliament, their judicious care to secure the peace and quiet of the King<g ref="char:EOLhyphen"/>dome, and increase a neerer Union between his Ma<g ref="char:EOLhyphen"/>jesty and the great Councell of the Kingdome. Likewise Sir <hi>Iohn Hothams</hi> determination concerning the Charge which is committed to him by the Houses of PARLIAMENT.</p>
+            <p>
+               <hi>May</hi> 16. <hi>London,</hi> Printed for <hi>Iohn Richman.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="resolution">
+            <pb facs="tcp:156675:2"/>
+            <pb facs="tcp:156675:2"/>
+            <head>The Loyall Resolu<g ref="char:EOLhyphen"/>tion of the Gentry and Com<g ref="char:EOLhyphen"/>monalty of the County of <hi>Yorke.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He County of <hi>YORKE</hi> with<g ref="char:EOLhyphen"/>in these late dayes, hath bin put to the test sufficiently, the malignant par<g ref="char:EOLhyphen"/>ty, leaving noway unattempted to atchieve their mis<g ref="char:EOLhyphen"/>chievous intentions, like cunning Fishers vsing sundry baites for to deceive with, proffering honor to the ambitious, gold to the Coveteous, Revenge to the envious,
+<pb facs="tcp:156675:3"/> suting each mans humour (which they bad occasion to use in their treacherous affaires) with what they found most pleasing to his pallat, thus do's these Romish instruments batch mischeife, and like the to the snake frozen almost to death, having received warmth from the poore mans boosome, in requitall stings him, so these insinuating <hi>Sinons,</hi> having beene warm'd and received life from the sweet Sun-shine o, their Princes favour, like venemous Serpents swolne with viprous envie, would in repuitall quite oclipse that Sunne, that gave them life and being, and with their flattering and beguiling tongues, with gilded probabi<g ref="char:EOLhyphen"/>lities of truth (though inwardly all trea<g ref="char:EOLhyphen"/>son) they delude their gratious Soveraign (who being good himselfe, thinkes all men so) thua their inchantments worke upon his milder temper, by which meenes they have made a seperation be<g ref="char:EOLhyphen"/>twixt his Majesty and his Parliament, for tis a maxime amongst your mischeife
+<pb facs="tcp:156675:3"/> mongers, that tis best Fishing in troub<g ref="char:EOLhyphen"/>led waters, without distractions, they could dave no time to perfect their bad purposes, therefore they vs'd the utmost of their Power to foment Jealousies be<g ref="char:EOLhyphen"/>tweene his Majestie and the Parliament, which being effected, they pretended fof rhe securitie of his Majesties person, and the puiet of the Kingdome, that it were more convenieot for his Majesty, to withdraw himselfe from the Citty, to some place of strength, thus did one plot usher on another, nay many, the malignant party using all meanes that possibly they could to bring destruction both upon his Royall Majesty and his posteritie, and to drowne the protestant Church in the blood of Christians.</p>
+            <p>These are those that induct His Ma<g ref="char:EOLhyphen"/>jesty to urge the County of <hi>Yorke</hi> in these severall principles.
+<list>
+                  <item>First, Whether they would defend His Majesties Royall Person from vio<g ref="char:EOLhyphen"/>lence.</item>
+                  <pb facs="tcp:156675:4"/>
+                  <item>Secondly, To have their advice concer<g ref="char:EOLhyphen"/>ning His Majesties not being admitted in<g ref="char:EOLhyphen"/>to His Towne of <hi>Hull.</hi>
+                  </item>
+                  <item>Thirdly, How His Majesties Honour might be vindicated for his affront given him by Sir <hi>John Hotham,</hi> and how hee might be put into possession of his owne.</item>
+               </list>
+            </p>
+            <p>These severall <hi>Questions</hi> from so gra<g ref="char:EOLhyphen"/>cious a Prince might have startled men of the soundest Judgements and stou<g ref="char:EOLhyphen"/>test Courage, Loyalty pleading for the first, and Law for the last.</p>
+            <p>Yet neverthelesse, the Gentry and Commonalty of <hi>Yorkshire</hi> thought it best to flye with <hi>Daedalus</hi> in the middle Region betwixt Loyalty and Law, not soaring with <hi>Jcarus</hi> too high, least like him they might have fallen into the Gulph of the Law, and have beene drowned.</p>
+            <p>Wherefore they made this their reso<g ref="char:EOLhyphen"/>lution, touching his Majesties demands.
+<pb facs="tcp:156675:4"/>
+               <list>
+                  <item>1. That they would be ready to spend both lives and estates to defend his Maje<g ref="char:EOLhyphen"/>sties sacred Person from violence, by all such waies as the Law and their duties should bind them.</item>
+                  <item>2. They resolved humbly to Petition his Majesty, to hearken to the Councels of his Parliament, whome they were assured would be carefull of His Majesties Honour, and to put him in possession of his owne, both for the encrease of his Majesties Ho<g ref="char:EOLhyphen"/>nour, and the Peace and security of this Kingdome.</item>
+               </list>
+            </p>
+            <p>Likewise Sr. <hi>John Hotham</hi> is resolu'd to continue a Loyall Subiect to his Ma<g ref="char:EOLhyphen"/>iestie (as he hath alwaies beene) and a faithfull servant to the Honourable Hou<g ref="char:EOLhyphen"/>ses of Parliament, in performing and discharging his Dutie according to his conscience to God, his Loyalty to his Maiesty, and his care of the Parliaments quiet, and Kingdomes security.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
